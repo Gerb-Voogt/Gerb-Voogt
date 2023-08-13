@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Gerb!
+I'm a MSc. student Systems and Control at Delft University of Technology. I enjoy math, programming, robotics, control and endlessly improving my workflow to the point of insanity.
+
+Lately I have been learning C++ as well as Rust due to an interest in Embedded systems and scientific software.
+
 
 <!--
 **Gerb-Voogt/Gerb-Voogt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
