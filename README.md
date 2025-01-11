@@ -1,7 +1,5 @@
 ### Hi, I'm Gerb!
-I'm a MSc. student Systems and Control at Delft University of Technology. I enjoy math, programming, robotics, control and endlessly tweaking my workflow to the point of insanity.
-
-Lately I have been learning C++ as well as Rust due to an interest in Embedded (control) systems and robots!
+I'm a MSc. student Systems and Control at Delft University of Technology. I enjoy math, programming, robotics, control and Linux.
 
 
 <!--
